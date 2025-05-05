@@ -5,7 +5,7 @@ It creates a mock dataset, handles missing values, performs group analysis, and 
 
 ---
 
-## ✅ Features
+## ✅ Features are
 
 - Create sample data using pandas
 - Handle missing values safely
