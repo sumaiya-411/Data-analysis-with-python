@@ -3,7 +3,7 @@
 This notebook demonstrates basic data analysis using Python with libraries like **pandas**, **numpy**, **matplotlib**, and **seaborn**.  
 It creates a mock dataset, handles missing values, performs group analysis, and visualizes the results.
 
----
+-----------
 
 ## ✅ Features are
 
