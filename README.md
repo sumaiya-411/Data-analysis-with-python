@@ -12,7 +12,7 @@ It creates a mock dataset, handles missing values, performs group analysis, and 
 - Group data and calculate averages
 - Visualize data using bar plots and box plots
 
----
+------------------------
 
 ## 🧰 Requirements
 
